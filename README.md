@@ -1,4 +1,4 @@
-## Data Science - Data Mining module
+## Data Science - Machine Learning module
 #### Introductory exercises!
 
 
